@@ -1,0 +1,14 @@
+---
+layout: post
+title: Projects
+permalink: /projects/
+---
+
+Below is an incomplete list of some of my projects
+- [NetPrints](https://warlock.ai/netprints/): Visual programming language that can use and output .NET binaries and C# source code
+- [Keras Neural Painter](https://github.com/RobinKa/kerasneuralpainter): Keras-based python scripts for procedural generation of images and seamless videos using random neural networks
+- [MetaVAE](https://github.com/RobinKa/MetaVAE): Meta-learning by applying MAML to an inner variational auto-encoder to automatically learn generative models with few examples. Also contains a more general meta-learning framework and examples to use for classification.
+
+List of game projects I have been involved with
+- [Warlock](https://www.warlockbrawl.com/): Popular mod for the games Warcraft 3 and Dota 2
+- [Spellsworn](https://www.spellsworn.com/)
