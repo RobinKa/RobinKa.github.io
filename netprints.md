@@ -4,8 +4,9 @@ title: NetPrints
 permalink: /netprints/
 ---
 
-### NetPrints Repository
-https://github.com/RobinKa/netprints
+### Description
+NetPrints is a visual programming language inspired by Unreal Engine 4's Blueprints which compiles into .NET binaries or alternatively C# source code. These can be used from any other .NET language (eg. C#) or used as standalone programs. Furthermore any .NET binaries (both .NET Framework and .NET Core, and ideally .NET Standard) can be referenced and used. Its goal is to support using anything that is made in C#.
 
-### NetPrints 0.0.1
-https://github.com/RobinKa/netprints/releases/tag/0.0.1
+### Links
+(Repository)[https://github.com/RobinKa/netprints]
+(0.0.1 Release Page)[https://github.com/RobinKa/netprints/releases/tag/0.0.1]
