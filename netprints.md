@@ -10,7 +10,7 @@ NetPrints is a visual programming language inspired by Unreal Engine 4's Bluepri
 ### Links
 [Repository](https://github.com/RobinKa/netprints)
 
-[0.0.2 Release Page](https://github.com/RobinKa/netprints/releases/tag/0.0.2)
+[0.0.2-update1 Release Page](https://github.com/RobinKa/netprints/releases/tag/0.0.2-update1)
 
 [Unity tutorial](https://github.com/RobinKa/NetPrintsUnityTutorial)
 
