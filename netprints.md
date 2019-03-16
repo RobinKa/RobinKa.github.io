@@ -15,4 +15,4 @@ NetPrints is a visual programming language inspired by Unreal Engine 4's Bluepri
 ### Use cases
 Here's an example of using NetPrints in Unity. It is set to generate source code so the generated code can be debugged in Unity too. In the example a class inheriting from `MonoBehaviour` is defined which moves the object during `Update()`. Nothing about NetPrints is Unity specific but it just works when referencing Unity's libraries.
 
-![](https://i.imgur.com/dn2kHXZ.png)
+![](https://i.imgur.com/IcuX6Zo.png)
