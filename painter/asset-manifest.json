@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/painter/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/painter/static/js/main.94bb30dc.chunk.js",
-    "main.js.map": "/painter/static/js/main.94bb30dc.chunk.js.map",
+    "main.js": "/painter/static/js/main.21c96e59.chunk.js",
+    "main.js.map": "/painter/static/js/main.21c96e59.chunk.js.map",
     "runtime~main.js": "/painter/static/js/runtime~main.0d4f4648.js",
     "runtime~main.js.map": "/painter/static/js/runtime~main.0d4f4648.js.map",
     "static/css/2.885217af.chunk.css": "/painter/static/css/2.885217af.chunk.css",
-    "static/js/2.601f03ba.chunk.js": "/painter/static/js/2.601f03ba.chunk.js",
-    "static/js/2.601f03ba.chunk.js.map": "/painter/static/js/2.601f03ba.chunk.js.map",
+    "static/js/2.05624297.chunk.js": "/painter/static/js/2.05624297.chunk.js",
+    "static/js/2.05624297.chunk.js.map": "/painter/static/js/2.05624297.chunk.js.map",
     "index.html": "/painter/index.html",
-    "precache-manifest.3b57499cb9c9cbbe4f6c3105c3cc9c32.js": "/painter/precache-manifest.3b57499cb9c9cbbe4f6c3105c3cc9c32.js",
+    "precache-manifest.a4837f96d6bac3b1faa2c5ab7966f416.js": "/painter/precache-manifest.a4837f96d6bac3b1faa2c5ab7966f416.js",
     "service-worker.js": "/painter/service-worker.js",
     "static/css/2.885217af.chunk.css.map": "/painter/static/css/2.885217af.chunk.css.map",
     "static/css/main.27fd15f6.chunk.css.map": "/painter/static/css/main.27fd15f6.chunk.css.map"
