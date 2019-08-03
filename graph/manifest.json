@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Graph Editor",
+  "name": "Typescript/React Generic Graph Editor",
   "icons": [
     {
       "src": "favicon.ico",
