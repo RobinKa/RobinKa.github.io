@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db6766d726b7dc98d1e11e4d14d6a877",
+    "revision": "9aadf2ce4ae2bc27c8289a8397302260",
     "url": "/painter/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/painter/static/css/2.885217af.chunk.css"
   },
   {
-    "revision": "2e0b694d17d232fd3f3f",
+    "revision": "a9f559c3af2f58bd0b42",
     "url": "/painter/static/css/main.27fd15f6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/painter/static/js/2.d32d83a2.chunk.js"
   },
   {
-    "revision": "2e0b694d17d232fd3f3f",
-    "url": "/painter/static/js/main.efddbb9c.chunk.js"
+    "revision": "a9f559c3af2f58bd0b42",
+    "url": "/painter/static/js/main.4723cc36.chunk.js"
   },
   {
     "revision": "9338e2c6f84a436b7fb1",
