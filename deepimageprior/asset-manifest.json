@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/deepimageprior/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/deepimageprior/static/js/main.c09d31d5.chunk.js",
+    "main.js.map": "/deepimageprior/static/js/main.c09d31d5.chunk.js.map",
+    "runtime~main.js": "/deepimageprior/static/js/runtime~main.45b68ee2.js",
+    "runtime~main.js.map": "/deepimageprior/static/js/runtime~main.45b68ee2.js.map",
+    "static/css/2.14b7a5f3.chunk.css": "/deepimageprior/static/css/2.14b7a5f3.chunk.css",
+    "static/js/2.c11e0314.chunk.js": "/deepimageprior/static/js/2.c11e0314.chunk.js",
+    "static/js/2.c11e0314.chunk.js.map": "/deepimageprior/static/js/2.c11e0314.chunk.js.map",
+    "index.html": "/deepimageprior/index.html",
+    "precache-manifest.3e86a53820c4fa8f81140a0ff0074ad7.js": "/deepimageprior/precache-manifest.3e86a53820c4fa8f81140a0ff0074ad7.js",
+    "service-worker.js": "/deepimageprior/service-worker.js",
+    "static/css/2.14b7a5f3.chunk.css.map": "/deepimageprior/static/css/2.14b7a5f3.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/deepimageprior/static/css/main.27fd15f6.chunk.css.map"
+  }
+}
