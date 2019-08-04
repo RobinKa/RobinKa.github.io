@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/deepimageprior/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/deepimageprior/static/js/main.31f127b0.chunk.js",
-    "main.js.map": "/deepimageprior/static/js/main.31f127b0.chunk.js.map",
+    "main.js": "/deepimageprior/static/js/main.03faf793.chunk.js",
+    "main.js.map": "/deepimageprior/static/js/main.03faf793.chunk.js.map",
     "runtime~main.js": "/deepimageprior/static/js/runtime~main.45b68ee2.js",
     "runtime~main.js.map": "/deepimageprior/static/js/runtime~main.45b68ee2.js.map",
     "static/css/2.efe9f0ac.chunk.css": "/deepimageprior/static/css/2.efe9f0ac.chunk.css",
-    "static/js/2.e0db42c7.chunk.js": "/deepimageprior/static/js/2.e0db42c7.chunk.js",
-    "static/js/2.e0db42c7.chunk.js.map": "/deepimageprior/static/js/2.e0db42c7.chunk.js.map",
+    "static/js/2.675d4782.chunk.js": "/deepimageprior/static/js/2.675d4782.chunk.js",
+    "static/js/2.675d4782.chunk.js.map": "/deepimageprior/static/js/2.675d4782.chunk.js.map",
     "index.html": "/deepimageprior/index.html",
-    "precache-manifest.344ab4a70825205068cec5e8711a9ff2.js": "/deepimageprior/precache-manifest.344ab4a70825205068cec5e8711a9ff2.js",
+    "precache-manifest.881cf950d58b9a3e8916e7391fc5b42d.js": "/deepimageprior/precache-manifest.881cf950d58b9a3e8916e7391fc5b42d.js",
     "service-worker.js": "/deepimageprior/service-worker.js",
     "static/css/2.efe9f0ac.chunk.css.map": "/deepimageprior/static/css/2.efe9f0ac.chunk.css.map",
     "static/css/main.27fd15f6.chunk.css.map": "/deepimageprior/static/css/main.27fd15f6.chunk.css.map"

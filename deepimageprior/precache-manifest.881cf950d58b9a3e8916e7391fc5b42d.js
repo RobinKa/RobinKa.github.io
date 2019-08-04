@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6ba0e23b7b4b442fe67174b32e45c5e",
+    "revision": "6ea6f4b12a86867426403b5a225cbf6c",
     "url": "/deepimageprior/index.html"
   },
   {
-    "revision": "929120afa31de1b5c490",
+    "revision": "ce7ddaeaa7ea5cbf2062",
     "url": "/deepimageprior/static/css/2.efe9f0ac.chunk.css"
   },
   {
-    "revision": "41c56015860a7c7fd583",
+    "revision": "e6b436f8f7807a2fb871",
     "url": "/deepimageprior/static/css/main.27fd15f6.chunk.css"
   },
   {
-    "revision": "929120afa31de1b5c490",
-    "url": "/deepimageprior/static/js/2.e0db42c7.chunk.js"
+    "revision": "ce7ddaeaa7ea5cbf2062",
+    "url": "/deepimageprior/static/js/2.675d4782.chunk.js"
   },
   {
-    "revision": "41c56015860a7c7fd583",
-    "url": "/deepimageprior/static/js/main.31f127b0.chunk.js"
+    "revision": "e6b436f8f7807a2fb871",
+    "url": "/deepimageprior/static/js/main.03faf793.chunk.js"
   },
   {
     "revision": "318bf581c6cce44695d6",
