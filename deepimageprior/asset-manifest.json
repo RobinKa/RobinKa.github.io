@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/deepimageprior/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/deepimageprior/static/js/main.6db5e7b4.chunk.js",
-    "main.js.map": "/deepimageprior/static/js/main.6db5e7b4.chunk.js.map",
+    "main.js": "/deepimageprior/static/js/main.1fda7bbe.chunk.js",
+    "main.js.map": "/deepimageprior/static/js/main.1fda7bbe.chunk.js.map",
     "runtime~main.js": "/deepimageprior/static/js/runtime~main.45b68ee2.js",
     "runtime~main.js.map": "/deepimageprior/static/js/runtime~main.45b68ee2.js.map",
-    "static/css/2.e0d920f7.chunk.css": "/deepimageprior/static/css/2.e0d920f7.chunk.css",
-    "static/js/2.63b69a68.chunk.js": "/deepimageprior/static/js/2.63b69a68.chunk.js",
-    "static/js/2.63b69a68.chunk.js.map": "/deepimageprior/static/js/2.63b69a68.chunk.js.map",
+    "static/css/2.536e5f70.chunk.css": "/deepimageprior/static/css/2.536e5f70.chunk.css",
+    "static/js/2.19f6e2ec.chunk.js": "/deepimageprior/static/js/2.19f6e2ec.chunk.js",
+    "static/js/2.19f6e2ec.chunk.js.map": "/deepimageprior/static/js/2.19f6e2ec.chunk.js.map",
     "index.html": "/deepimageprior/index.html",
-    "precache-manifest.f4745d55d9f84ad6b02bf0d78e70621f.js": "/deepimageprior/precache-manifest.f4745d55d9f84ad6b02bf0d78e70621f.js",
+    "precache-manifest.813c477ebfec44a231a3a9812027fb48.js": "/deepimageprior/precache-manifest.813c477ebfec44a231a3a9812027fb48.js",
     "service-worker.js": "/deepimageprior/service-worker.js",
-    "static/css/2.e0d920f7.chunk.css.map": "/deepimageprior/static/css/2.e0d920f7.chunk.css.map",
+    "static/css/2.536e5f70.chunk.css.map": "/deepimageprior/static/css/2.536e5f70.chunk.css.map",
     "static/css/main.27fd15f6.chunk.css.map": "/deepimageprior/static/css/main.27fd15f6.chunk.css.map"
   }
 }
