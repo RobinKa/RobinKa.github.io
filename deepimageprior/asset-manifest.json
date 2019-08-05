@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/deepimageprior/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/deepimageprior/static/js/main.d3bb68bd.chunk.js",
-    "main.js.map": "/deepimageprior/static/js/main.d3bb68bd.chunk.js.map",
+    "main.js": "/deepimageprior/static/js/main.e2caec25.chunk.js",
+    "main.js.map": "/deepimageprior/static/js/main.e2caec25.chunk.js.map",
     "runtime~main.js": "/deepimageprior/static/js/runtime~main.45b68ee2.js",
     "runtime~main.js.map": "/deepimageprior/static/js/runtime~main.45b68ee2.js.map",
-    "static/css/2.d081e167.chunk.css": "/deepimageprior/static/css/2.d081e167.chunk.css",
-    "static/js/2.487639d3.chunk.js": "/deepimageprior/static/js/2.487639d3.chunk.js",
-    "static/js/2.487639d3.chunk.js.map": "/deepimageprior/static/js/2.487639d3.chunk.js.map",
+    "static/css/2.7241a7d7.chunk.css": "/deepimageprior/static/css/2.7241a7d7.chunk.css",
+    "static/js/2.843440dd.chunk.js": "/deepimageprior/static/js/2.843440dd.chunk.js",
+    "static/js/2.843440dd.chunk.js.map": "/deepimageprior/static/js/2.843440dd.chunk.js.map",
     "index.html": "/deepimageprior/index.html",
-    "precache-manifest.20cc15cfcaf51e0a864a61eab13677fa.js": "/deepimageprior/precache-manifest.20cc15cfcaf51e0a864a61eab13677fa.js",
+    "precache-manifest.42ca5d51a73c4bba4a19c9b6d6503425.js": "/deepimageprior/precache-manifest.42ca5d51a73c4bba4a19c9b6d6503425.js",
     "service-worker.js": "/deepimageprior/service-worker.js",
-    "static/css/2.d081e167.chunk.css.map": "/deepimageprior/static/css/2.d081e167.chunk.css.map",
-    "static/css/main.27fd15f6.chunk.css.map": "/deepimageprior/static/css/main.27fd15f6.chunk.css.map"
+    "static/css/2.7241a7d7.chunk.css.map": "/deepimageprior/static/css/2.7241a7d7.chunk.css.map",
+    "static/css/main.27fd15f6.chunk.css.map": "/deepimageprior/static/css/main.27fd15f6.chunk.css.map",
+    "static/media/balloons_noisy.png": "/deepimageprior/static/media/balloons_noisy.32a102a1.png",
+    "static/media/lenna_noisy.png": "/deepimageprior/static/media/lenna_noisy.7637940c.png"
   }
 }
