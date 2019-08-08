@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83ede637510f4330015221efdfc8c357",
+    "revision": "31cc81c30bfcf20c6cac649c8093a153",
     "url": "/deepimageprior/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deepimageprior/static/css/2.885217af.chunk.css"
   },
   {
-    "revision": "982d71b569a2ec183c18",
+    "revision": "36e22b75c0fcc6440468",
     "url": "/deepimageprior/static/css/main.27fd15f6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deepimageprior/static/js/2.73018ec3.chunk.js"
   },
   {
-    "revision": "982d71b569a2ec183c18",
-    "url": "/deepimageprior/static/js/main.f31f0c6b.chunk.js"
+    "revision": "36e22b75c0fcc6440468",
+    "url": "/deepimageprior/static/js/main.5a23ddb9.chunk.js"
   },
   {
     "revision": "318bf581c6cce44695d6",
