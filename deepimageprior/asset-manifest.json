@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/deepimageprior/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/deepimageprior/static/js/main.94e0a4f7.chunk.js",
-    "main.js.map": "/deepimageprior/static/js/main.94e0a4f7.chunk.js.map",
+    "main.js": "/deepimageprior/static/js/main.f31f0c6b.chunk.js",
+    "main.js.map": "/deepimageprior/static/js/main.f31f0c6b.chunk.js.map",
     "runtime~main.js": "/deepimageprior/static/js/runtime~main.45b68ee2.js",
     "runtime~main.js.map": "/deepimageprior/static/js/runtime~main.45b68ee2.js.map",
-    "static/css/2.7241a7d7.chunk.css": "/deepimageprior/static/css/2.7241a7d7.chunk.css",
-    "static/js/2.60992ed9.chunk.js": "/deepimageprior/static/js/2.60992ed9.chunk.js",
-    "static/js/2.60992ed9.chunk.js.map": "/deepimageprior/static/js/2.60992ed9.chunk.js.map",
+    "static/css/2.885217af.chunk.css": "/deepimageprior/static/css/2.885217af.chunk.css",
+    "static/js/2.73018ec3.chunk.js": "/deepimageprior/static/js/2.73018ec3.chunk.js",
+    "static/js/2.73018ec3.chunk.js.map": "/deepimageprior/static/js/2.73018ec3.chunk.js.map",
     "index.html": "/deepimageprior/index.html",
-    "precache-manifest.c8ad0b0b37ad0a1072f2b1f2b0a3df80.js": "/deepimageprior/precache-manifest.c8ad0b0b37ad0a1072f2b1f2b0a3df80.js",
+    "precache-manifest.9006e31f40c0a3d1d89d696a5b4240c0.js": "/deepimageprior/precache-manifest.9006e31f40c0a3d1d89d696a5b4240c0.js",
     "service-worker.js": "/deepimageprior/service-worker.js",
-    "static/css/2.7241a7d7.chunk.css.map": "/deepimageprior/static/css/2.7241a7d7.chunk.css.map",
+    "static/css/2.885217af.chunk.css.map": "/deepimageprior/static/css/2.885217af.chunk.css.map",
     "static/css/main.27fd15f6.chunk.css.map": "/deepimageprior/static/css/main.27fd15f6.chunk.css.map",
     "static/media/car_inpaint.png": "/deepimageprior/static/media/car_inpaint.82954de1.png",
+    "static/media/cat_text.png": "/deepimageprior/static/media/cat_text.f7cb4fcc.png",
     "static/media/lenna_noisy.png": "/deepimageprior/static/media/lenna_noisy.7637940c.png"
   }
 }
