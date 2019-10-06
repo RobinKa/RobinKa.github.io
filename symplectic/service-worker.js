@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/symplectic/precache-manifest.59977a5965022b7399af46cd5b9ceb77.js"
+  "/symplectic/precache-manifest.676b271e927486a962eec84b2a09b444.js"
 );
 
 self.addEventListener('message', (event) => {
