@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/symplectic/static/js/main.a10f785d.chunk.js",
+    "main.js.map": "/symplectic/static/js/main.a10f785d.chunk.js.map",
+    "runtime-main.js": "/symplectic/static/js/runtime-main.0d0010ad.js",
+    "runtime-main.js.map": "/symplectic/static/js/runtime-main.0d0010ad.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/symplectic/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.0b829028.chunk.js": "/symplectic/static/js/2.0b829028.chunk.js",
+    "static/js/2.0b829028.chunk.js.map": "/symplectic/static/js/2.0b829028.chunk.js.map",
+    "index.html": "/symplectic/index.html",
+    "precache-manifest.bd3e4eb4ccc586b42b7695465aa395d4.js": "/symplectic/precache-manifest.bd3e4eb4ccc586b42b7695465aa395d4.js",
+    "service-worker.js": "/symplectic/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/symplectic/static/css/2.5c17b9f1.chunk.css.map"
+  }
+}
