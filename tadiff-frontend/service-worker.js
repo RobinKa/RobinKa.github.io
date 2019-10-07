@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tadiff-frontend/precache-manifest.0714bd6c9626770319b28e7f44210870.js"
+  "/tadiff-frontend/precache-manifest.417e44c69885720d1c93053564ed926f.js"
 );
 
 self.addEventListener('message', (event) => {
