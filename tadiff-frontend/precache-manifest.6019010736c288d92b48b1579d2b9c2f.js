@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "001eb169063d0f3296dee9f4c7843f3d",
+    "revision": "4c34a09badca25e7c118e30400331e0f",
     "url": "/tadiff-frontend/index.html"
   },
   {
-    "revision": "81e728840c5221268fd8",
+    "revision": "00e066a4076f7a748ae2",
     "url": "/tadiff-frontend/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "a75846b26be9973bd9af",
-    "url": "/tadiff-frontend/static/js/2.d378e94a.chunk.js"
+    "revision": "98cb83d94c2d827d942e",
+    "url": "/tadiff-frontend/static/js/2.65f20622.chunk.js"
   },
   {
-    "revision": "81e728840c5221268fd8",
-    "url": "/tadiff-frontend/static/js/main.15eedd58.chunk.js"
+    "revision": "00e066a4076f7a748ae2",
+    "url": "/tadiff-frontend/static/js/main.e22ad707.chunk.js"
   },
   {
     "revision": "d455c55f1d8e3db0d654",

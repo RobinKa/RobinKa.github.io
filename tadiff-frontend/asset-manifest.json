@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/tadiff-frontend/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/tadiff-frontend/static/js/main.15eedd58.chunk.js",
-    "main.js.map": "/tadiff-frontend/static/js/main.15eedd58.chunk.js.map",
+    "main.js": "/tadiff-frontend/static/js/main.e22ad707.chunk.js",
+    "main.js.map": "/tadiff-frontend/static/js/main.e22ad707.chunk.js.map",
     "runtime-main.js": "/tadiff-frontend/static/js/runtime-main.ab1a1080.js",
     "runtime-main.js.map": "/tadiff-frontend/static/js/runtime-main.ab1a1080.js.map",
-    "static/js/2.d378e94a.chunk.js": "/tadiff-frontend/static/js/2.d378e94a.chunk.js",
-    "static/js/2.d378e94a.chunk.js.map": "/tadiff-frontend/static/js/2.d378e94a.chunk.js.map",
+    "static/js/2.65f20622.chunk.js": "/tadiff-frontend/static/js/2.65f20622.chunk.js",
+    "static/js/2.65f20622.chunk.js.map": "/tadiff-frontend/static/js/2.65f20622.chunk.js.map",
     "index.html": "/tadiff-frontend/index.html",
-    "precache-manifest.417e44c69885720d1c93053564ed926f.js": "/tadiff-frontend/precache-manifest.417e44c69885720d1c93053564ed926f.js",
+    "precache-manifest.6019010736c288d92b48b1579d2b9c2f.js": "/tadiff-frontend/precache-manifest.6019010736c288d92b48b1579d2b9c2f.js",
     "service-worker.js": "/tadiff-frontend/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/tadiff-frontend/static/css/main.5ecd60fb.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.ab1a1080.js",
-    "static/js/2.d378e94a.chunk.js",
+    "static/js/2.65f20622.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.15eedd58.chunk.js"
+    "static/js/main.e22ad707.chunk.js"
   ]
 }
