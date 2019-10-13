@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.f5a43398.chunk.js",
-    "main.js.map": "/static/js/main.f5a43398.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d5670961.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d5670961.js.map",
-    "static/css/2.5c17b9f1.chunk.css": "/static/css/2.5c17b9f1.chunk.css",
-    "static/js/2.451c17c9.chunk.js": "/static/js/2.451c17c9.chunk.js",
-    "static/js/2.451c17c9.chunk.js.map": "/static/js/2.451c17c9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2eb592c69e4a7046cf2b5aefd304b121.js": "/precache-manifest.2eb592c69e4a7046cf2b5aefd304b121.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.5c17b9f1.chunk.css.map": "/static/css/2.5c17b9f1.chunk.css.map"
+    "main.js": "/symplectic/static/js/main.e4a3af37.chunk.js",
+    "main.js.map": "/symplectic/static/js/main.e4a3af37.chunk.js.map",
+    "runtime-main.js": "/symplectic/static/js/runtime-main.0d0010ad.js",
+    "runtime-main.js.map": "/symplectic/static/js/runtime-main.0d0010ad.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/symplectic/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.451c17c9.chunk.js": "/symplectic/static/js/2.451c17c9.chunk.js",
+    "static/js/2.451c17c9.chunk.js.map": "/symplectic/static/js/2.451c17c9.chunk.js.map",
+    "index.html": "/symplectic/index.html",
+    "precache-manifest.305b5fbd6bdedad765a9ea55117441b9.js": "/symplectic/precache-manifest.305b5fbd6bdedad765a9ea55117441b9.js",
+    "service-worker.js": "/symplectic/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/symplectic/static/css/2.5c17b9f1.chunk.css.map"
   }
 }
