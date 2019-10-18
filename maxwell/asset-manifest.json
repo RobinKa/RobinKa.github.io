@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/maxwell/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/maxwell/static/js/main.817ff80a.chunk.js",
-    "main.js.map": "/maxwell/static/js/main.817ff80a.chunk.js.map",
+    "main.css": "/maxwell/static/css/main.768378ba.chunk.css",
+    "main.js": "/maxwell/static/js/main.54e30585.chunk.js",
+    "main.js.map": "/maxwell/static/js/main.54e30585.chunk.js.map",
     "runtime-main.js": "/maxwell/static/js/runtime-main.993d012e.js",
     "runtime-main.js.map": "/maxwell/static/js/runtime-main.993d012e.js.map",
-    "static/js/2.a0b296ec.chunk.js": "/maxwell/static/js/2.a0b296ec.chunk.js",
-    "static/js/2.a0b296ec.chunk.js.map": "/maxwell/static/js/2.a0b296ec.chunk.js.map",
+    "static/js/2.68b15e65.chunk.js": "/maxwell/static/js/2.68b15e65.chunk.js",
+    "static/js/2.68b15e65.chunk.js.map": "/maxwell/static/js/2.68b15e65.chunk.js.map",
     "index.html": "/maxwell/index.html",
-    "precache-manifest.3bb86922f02512f501e8d48261e0c284.js": "/maxwell/precache-manifest.3bb86922f02512f501e8d48261e0c284.js",
+    "precache-manifest.5ebc8e3e250020dabf2677602b8bbff9.js": "/maxwell/precache-manifest.5ebc8e3e250020dabf2677602b8bbff9.js",
     "service-worker.js": "/maxwell/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/maxwell/static/css/main.5ecd60fb.chunk.css.map"
+    "static/css/main.768378ba.chunk.css.map": "/maxwell/static/css/main.768378ba.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.993d012e.js",
-    "static/js/2.a0b296ec.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.817ff80a.chunk.js"
+    "static/js/2.68b15e65.chunk.js",
+    "static/css/main.768378ba.chunk.css",
+    "static/js/main.54e30585.chunk.js"
   ]
 }
