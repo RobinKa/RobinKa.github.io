@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f0af4e64cca7311349f07aee9a382151",
+    "revision": "309b6e775034f27ff024f8bf995e1a4c",
     "url": "/maxwell/index.html"
   },
   {
-    "revision": "15cc7f9e92909dd57af0",
+    "revision": "8296bec2ff45680b3898",
     "url": "/maxwell/static/css/main.abc54a37.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/maxwell/static/js/2.1ba6854a.chunk.js"
   },
   {
-    "revision": "15cc7f9e92909dd57af0",
-    "url": "/maxwell/static/js/main.5c314598.chunk.js"
+    "revision": "8296bec2ff45680b3898",
+    "url": "/maxwell/static/js/main.72a29ac4.chunk.js"
   },
   {
     "revision": "f4c4b6f5eb72283e1e2b",
