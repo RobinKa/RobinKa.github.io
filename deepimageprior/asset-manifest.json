@@ -1,20 +1,28 @@
 {
   "files": {
     "main.css": "/deepimageprior/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/deepimageprior/static/js/main.5e773c57.chunk.js",
-    "main.js.map": "/deepimageprior/static/js/main.5e773c57.chunk.js.map",
-    "runtime~main.js": "/deepimageprior/static/js/runtime~main.45b68ee2.js",
-    "runtime~main.js.map": "/deepimageprior/static/js/runtime~main.45b68ee2.js.map",
-    "static/css/2.885217af.chunk.css": "/deepimageprior/static/css/2.885217af.chunk.css",
-    "static/js/2.73018ec3.chunk.js": "/deepimageprior/static/js/2.73018ec3.chunk.js",
-    "static/js/2.73018ec3.chunk.js.map": "/deepimageprior/static/js/2.73018ec3.chunk.js.map",
+    "main.js": "/deepimageprior/static/js/main.9c289c71.chunk.js",
+    "main.js.map": "/deepimageprior/static/js/main.9c289c71.chunk.js.map",
+    "runtime-main.js": "/deepimageprior/static/js/runtime-main.a7134186.js",
+    "runtime-main.js.map": "/deepimageprior/static/js/runtime-main.a7134186.js.map",
+    "static/css/2.e12688b7.chunk.css": "/deepimageprior/static/css/2.e12688b7.chunk.css",
+    "static/js/2.a6d777e3.chunk.js": "/deepimageprior/static/js/2.a6d777e3.chunk.js",
+    "static/js/2.a6d777e3.chunk.js.map": "/deepimageprior/static/js/2.a6d777e3.chunk.js.map",
     "index.html": "/deepimageprior/index.html",
-    "precache-manifest.24dc15a4ae2fa8e186413d486a9ae98c.js": "/deepimageprior/precache-manifest.24dc15a4ae2fa8e186413d486a9ae98c.js",
+    "precache-manifest.bdc16e8a92acca71feb32114ba67e1fa.js": "/deepimageprior/precache-manifest.bdc16e8a92acca71feb32114ba67e1fa.js",
     "service-worker.js": "/deepimageprior/service-worker.js",
-    "static/css/2.885217af.chunk.css.map": "/deepimageprior/static/css/2.885217af.chunk.css.map",
+    "static/css/2.e12688b7.chunk.css.map": "/deepimageprior/static/css/2.e12688b7.chunk.css.map",
     "static/css/main.27fd15f6.chunk.css.map": "/deepimageprior/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.a6d777e3.chunk.js.LICENSE.txt": "/deepimageprior/static/js/2.a6d777e3.chunk.js.LICENSE.txt",
     "static/media/car_inpaint.png": "/deepimageprior/static/media/car_inpaint.82954de1.png",
     "static/media/cat_text.png": "/deepimageprior/static/media/cat_text.f7cb4fcc.png",
     "static/media/lenna_noisy.png": "/deepimageprior/static/media/lenna_noisy.7637940c.png"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7134186.js",
+    "static/css/2.e12688b7.chunk.css",
+    "static/js/2.a6d777e3.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.9c289c71.chunk.js"
+  ]
 }
